@@ -1,1 +1,1 @@
-Enum.each(1..10, fn n -> IO.puts(n) end)
+Enum.each(1..1000, fn n -> IO.puts(n) end)
