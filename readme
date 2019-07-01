@@ -1,2 +1,5 @@
  time iex --erl "+P 5000000" sync.ex 
 time bundle exec ruby process.rb
+
+
+https://www.poeticoding.com/the-primitives-of-elixir-concurrency-full-example/
